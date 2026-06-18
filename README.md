@@ -271,13 +271,3 @@ Depending on your notebook implementation, you may also need:
 - Kaggle AFHQv2 512 contributor
 
 ---
-
-## License
-
-Add a license before publishing, such as MIT, if you want the repository to be reusable and easy to share.
-
----
-
-## Note
-
-The current workspace is notebook-first and keeps the structure intentionally minimal. This README documents the project cleanly without forcing a codebase refactor.
